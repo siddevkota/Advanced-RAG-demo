@@ -1,0 +1,30 @@
+# Core
+python-dotenv
+numpy<2.0
+pandas
+
+# Jupyter
+notebook
+ipykernel
+
+# LLM + LangChain
+openai>=1.0.0
+langchain>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+
+# Vector store
+faiss-cpu
+
+# Hugging Face + models
+datasets
+transformers
+torch==2.2.2
+
+# PDF / file handling
+pypdf
+
+# Optional (for later API / UI work)
+fastapi
+uvicorn
+streamlit
