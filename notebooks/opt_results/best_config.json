@@ -1,0 +1,12 @@
+{
+  "chunk_size": 800,
+  "chunk_overlap": 320,
+  "stage1_k": 50,
+  "top_k_reranked": 10,
+  "performance": {
+    "combined_score": 5.0,
+    "avg_correctness": 5.0,
+    "avg_relevance": 5.0,
+    "avg_latency_ms": 11119.534659385681
+  }
+}
