@@ -1,0 +1,19 @@
+# Backend requirements
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+
+# LLM Providers
+langchain-google-genai>=2.0.0
+
+# Already in project requirements
+# langchain-openai
+# langchain-community
+# openai
+# datasets
+# transformers
+# torch
+# faiss-cpu
+# numpy
+# pandas

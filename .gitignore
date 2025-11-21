@@ -1,6 +1,24 @@
-.env
-.venv
-.python-version
+# Data files
+data/pdfs/
+data/vectorstore/
+data/chatbot_feedback.json
+data/chunks_export.json
+
+# Python
 __pycache__/
-.ipynb_checkpoints/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
