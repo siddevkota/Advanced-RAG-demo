@@ -13,7 +13,7 @@ API_URL = app_config.API_BASE_URL
 client = api_client.APIClient(API_URL)
 
 st.set_page_config(
-    page_title="RAG Chatbot",
+    page_title="Advanced RAG Chatbot",
     page_icon="💬",
     layout="wide",
     initial_sidebar_state="expanded"
