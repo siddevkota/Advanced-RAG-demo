@@ -187,7 +187,7 @@ with st.sidebar:
         st.rerun()
 
 # Main Chat Area
-st.title("RAG Chatbot")
+st.title("Advanced RAG Chatbot")
     
     # Display chat messages
 for idx, msg in enumerate(st.session_state.messages):
